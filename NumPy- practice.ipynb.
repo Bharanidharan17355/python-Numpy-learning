@@ -821,11 +821,165 @@
     },
     {
       "cell_type": "code",
-      "source": [],
+      "source": [
+        "#arithmetics"
+      ],
       "metadata": {
         "id": "pczo9CQ7VSE4"
       },
-      "execution_count": null,
+      "execution_count": 26,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n"
+      ],
+      "metadata": {
+        "id": "KYxcQXiGWDXC"
+      },
+      "execution_count": 27,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.array([1,2,3,4,5])\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "XkRNP78aWG_n",
+        "outputId": "dca11b75-692b-4d9d-a214-202a60b6424c"
+      },
+      "execution_count": 28,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[1 2 3 4 5]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(array+1)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "WzYbvNIgWG8N",
+        "outputId": "7db5df5c-1a50-4b85-b8e9-82e43e13a976"
+      },
+      "execution_count": 29,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[2 3 4 5 6]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(array-1)\n",
+        "print(array*2)\n",
+        "print(array**2)\n",
+        "print(array%2)\n",
+        "print(array/1)\n",
+        "print(np.sqrt(arr))\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "QsHnRkeQWk9A",
+        "outputId": "1e08408c-51f7-47f7-fba5-2abb3d54bb33"
+      },
+      "execution_count": 31,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[0 1 2 3 4]\n",
+            "[ 2  4  6  8 10]\n",
+            "[ 1  4  9 16 25]\n",
+            "[1 0 1 0 1]\n",
+            "[1. 2. 3. 4. 5.]\n",
+            "[[1.         1.41421356 1.73205081]\n",
+            " [2.         2.23606798 2.44948974]\n",
+            " [2.64575131 2.82842712 3.        ]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.round(array))#4.9-5\n",
+        "print(np.floor(array))#4.9-4"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3nfjzsJ7XNr2",
+        "outputId": "beb21111-fbe0-4b97-e3c1-80e3f08506e1"
+      },
+      "execution_count": 32,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[1 2 3 4 5]\n",
+            "[1 2 3 4 5]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.ceil(array))#taking the upper limit"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GBgxH7c0XZxw",
+        "outputId": "b2737c8b-438d-4bb8-cce3-f42b31e6d935"
+      },
+      "execution_count": 34,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[1 2 3 4 5]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#additon of two arrays and all arithmatic operators are excuted from these seperatly and round off are also possible"
+      ],
+      "metadata": {
+        "id": "Kj5dx8tGXyTK"
+      },
+      "execution_count": 35,
       "outputs": []
     }
   ],
