@@ -534,7 +534,7 @@
       "metadata": {
         "id": "2gA3ALOVQ4Hg"
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -545,7 +545,7 @@
       "metadata": {
         "id": "ZMjTlq78SWMw"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -566,7 +566,7 @@
         "id": "kqp0MXdbQ1mO",
         "outputId": "47465bfe-886d-4d78-8a42-cef349634042"
       },
-      "execution_count": 3,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -591,7 +591,7 @@
         "id": "ONMAz7mbQ1iu",
         "outputId": "9b132c61-f8fc-4462-dea7-ae430bf44a7f"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -614,7 +614,7 @@
         "id": "jIYJU51pSpIo",
         "outputId": "0a0db355-7b43-464e-c6f2-7a55f4ee942a"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -637,7 +637,7 @@
         "id": "ko7erSFGSt1L",
         "outputId": "3ffaed92-1013-4af7-9ae5-2602dc17ed81"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -660,7 +660,7 @@
         "id": "cxn9iWsiSxSN",
         "outputId": "2d0ef9cd-40c8-409f-fc94-ccccbd430db7"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -683,7 +683,7 @@
         "id": "UE64baxKS0r1",
         "outputId": "10fa1ad8-74ec-480d-b41b-295e612e4f30"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -707,7 +707,7 @@
         "id": "oT0c_D47TK1s",
         "outputId": "295ccbbf-952c-4f31-b550-c18e85a04da4"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -731,7 +731,7 @@
         "id": "uqA3VYb-TXCo",
         "outputId": "e9bd2af0-bcf0-4bae-c509-4f5f2cca5edc"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -754,7 +754,7 @@
         "id": "ayahVWzUTvVt",
         "outputId": "39d380a5-0793-44e4-94f3-27ecea725185"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -779,7 +779,7 @@
         "id": "YzCr5KtwUNt_",
         "outputId": "82e9101f-9ffe-4b21-a358-345579fda877"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -807,7 +807,7 @@
         "id": "JQQXMMKFUlKs",
         "outputId": "f6ff8a88-ebe0-49ae-a251-cadfcc286dc7"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -827,7 +827,7 @@
       "metadata": {
         "id": "pczo9CQ7VSE4"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -838,7 +838,7 @@
       "metadata": {
         "id": "KYxcQXiGWDXC"
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -854,7 +854,7 @@
         "id": "XkRNP78aWG_n",
         "outputId": "dca11b75-692b-4d9d-a214-202a60b6424c"
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -877,7 +877,7 @@
         "id": "WzYbvNIgWG8N",
         "outputId": "7db5df5c-1a50-4b85-b8e9-82e43e13a976"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -905,7 +905,7 @@
         "id": "QsHnRkeQWk9A",
         "outputId": "1e08408c-51f7-47f7-fba5-2abb3d54bb33"
       },
-      "execution_count": 31,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -936,7 +936,7 @@
         "id": "3nfjzsJ7XNr2",
         "outputId": "beb21111-fbe0-4b97-e3c1-80e3f08506e1"
       },
-      "execution_count": 32,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -960,7 +960,7 @@
         "id": "GBgxH7c0XZxw",
         "outputId": "b2737c8b-438d-4bb8-cce3-f42b31e6d935"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -979,7 +979,666 @@
       "metadata": {
         "id": "Kj5dx8tGXyTK"
       },
-      "execution_count": 35,
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#broadcaste"
+      ],
+      "metadata": {
+        "id": "UJ-LOsfH_tYj"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n"
+      ],
+      "metadata": {
+        "id": "3YzywpHaAzic"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.array([\n",
+        "                [1,2,3],\n",
+        "                [4,5,6],\n",
+        "                [7,8,9]\n",
+        "])\n",
+        "print(array)\n",
+        "print(array.shape)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ceGH3ddpABKy",
+        "outputId": "13eb63f0-9bde-44de-950e-859e9fe2bc48"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[1 2 3]\n",
+            " [4 5 6]\n",
+            " [7 8 9]]\n",
+            "(3, 3)\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "brray = np.array([\n",
+        "              [1,2,3]\n",
+        "])\n",
+        "print(brray)\n",
+        "print(brray.shape)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "RYV5I0t3A3FH",
+        "outputId": "55056af7-d040-4f1a-f20c-93465e5bd8b2"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[1 2 3]]\n",
+            "(1, 3)\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(array*brray)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "r4vKB0bDBKCp",
+        "outputId": "26ba388c-e3c3-47cc-ea54-3cbd84eedcb8"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[ 1  4  9]\n",
+            " [ 4 10 18]\n",
+            " [ 7 16 27]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "brray = np.array([\n",
+        "              [1],[2],[3]\n",
+        "])\n",
+        "print(brray)\n",
+        "print(brray.shape)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "xGu2y3QBBPuT",
+        "outputId": "a687eb1a-f03d-4da3-831f-589a4173d48a"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[1]\n",
+            " [2]\n",
+            " [3]]\n",
+            "(3, 1)\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(array*brray)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3306IZHRB20M",
+        "outputId": "adb1c555-7eb2-4d1f-ba95-52d0aa262853"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[ 1  2  3]\n",
+            " [ 8 10 12]\n",
+            " [21 24 27]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#functions"
+      ],
+      "metadata": {
+        "id": "mo2Pyzs3CGL7"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import numpy as np\n"
+      ],
+      "metadata": {
+        "id": "SSQIVwt8CP8j"
+      },
+      "execution_count": 1,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.zeros(10)\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "id": "RB6DtsMxCZP5",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "3e2f21aa-b60e-4c76-a803-4cd3afb3ff83"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.zeros((2,10,2))\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Q9WaBkkltiwq",
+        "outputId": "a6151836-0daf-4791-9147-9764a144565b"
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[[0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]]\n",
+            "\n",
+            " [[0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]\n",
+            "  [0. 0.]]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.ones((2,10,2))\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "R2kqYKEZtsEO",
+        "outputId": "3a3de2ed-2125-4a0f-91b8-3365127c9a21"
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[[1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]]\n",
+            "\n",
+            " [[1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]\n",
+            "  [1. 1.]]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.full((3,2,3),45)\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GHYG2zulujE9",
+        "outputId": "8c898f19-2019-40c3-9f81-d4796e5edb72"
+      },
+      "execution_count": 11,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[[45 45 45]\n",
+            "  [45 45 45]]\n",
+            "\n",
+            " [[45 45 45]\n",
+            "  [45 45 45]]\n",
+            "\n",
+            " [[45 45 45]\n",
+            "  [45 45 45]]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.eye(5)\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Na4RV90Ju_Rz",
+        "outputId": "ca31070d-9590-4fa6-ffad-51b2a23a8802"
+      },
+      "execution_count": 13,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[1. 0. 0. 0. 0.]\n",
+            " [0. 1. 0. 0. 0.]\n",
+            " [0. 0. 1. 0. 0.]\n",
+            " [0. 0. 0. 1. 0.]\n",
+            " [0. 0. 0. 0. 1.]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.empty((3,2,4))\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "nb1EIKyWvKpt",
+        "outputId": "2f638f39-1e8e-4bcd-af76-9a9459aef049"
+      },
+      "execution_count": 20,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[[[-0.25 -0.5   0.   -0.25]\n",
+            "  [ 0.25 -0.5   0.5  -0.25]]\n",
+            "\n",
+            " [[ 0.25  0.    0.5   0.25]\n",
+            "  [ 0.25  0.5   0.    0.25]]\n",
+            "\n",
+            " [[-0.25  0.5  -0.5   0.25]\n",
+            "  [-0.25  0.   -0.5  -0.25]]]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.arange(0,100,2)\n",
+        "print(array)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "PcRn_gMBveX3",
+        "outputId": "9278d9ef-ed5a-4ea9-a898-d80ad1af4f0b"
+      },
+      "execution_count": 23,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[ 0  2  4  6  8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46\n",
+            " 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94\n",
+            " 96 98]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "arr = np.linspace(0,100,5)\n",
+        "print(arr)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "TltoChCEwxzd",
+        "outputId": "7fbd002a-61dc-4fea-9218-f3cf9f677026"
+      },
+      "execution_count": 26,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "[  0.  25.  50.  75. 100.]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.sum(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "XWP-vV2-xAfr",
+        "outputId": "440e0b74-9f5c-41cf-c395-d5a06ffa5d10"
+      },
+      "execution_count": 27,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "250.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.mean(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "eNSbdZIRxNze",
+        "outputId": "2d78c8a6-33e5-46d9-8569-641ea7cea830"
+      },
+      "execution_count": 28,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "50.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.min(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "C1LxzdgdxUQi",
+        "outputId": "78437240-bb5e-479d-da42-49f0668e524e"
+      },
+      "execution_count": 29,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "0.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.max(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "56_opRKjxYFm",
+        "outputId": "3d3cc9bf-feba-4d07-90b2-37910b6b2107"
+      },
+      "execution_count": 30,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "100.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.std(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Mm4IcEnQxb1x",
+        "outputId": "1fdca992-57b0-486a-e911-5a8d3a018004"
+      },
+      "execution_count": 31,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "35.35533905932738\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.var(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "roQ5O0lFxgR6",
+        "outputId": "8e855e7c-ca47-445b-cbe0-b0fc38e18283"
+      },
+      "execution_count": 32,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "1250.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.argmin(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "__dLK4exxnRk",
+        "outputId": "d5d6ca40-b28b-4b93-f56c-8559563d7d4e"
+      },
+      "execution_count": 33,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(np.argmax(arr))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "dKhfMlE-xq2h",
+        "outputId": "3d333973-67ac-4b0d-e370-ec22662c292e"
+      },
+      "execution_count": 34,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "4\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "array = np.array([\n",
+        "                  [1,2,3],\n",
+        "                  [4,5,6],\n",
+        "                  [7,8,9]\n",
+        "])\n",
+        "print(np.sum(array))\n",
+        "print(np.sum(array,axis=1))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "HPMUkHK-yNx8",
+        "outputId": "615f4423-fb02-42fa-997a-ca3909367b27"
+      },
+      "execution_count": 36,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "45\n",
+            "[ 6 15 24]\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "iW0jMkdMyNum"
+      },
+      "execution_count": null,
       "outputs": []
     }
   ],
